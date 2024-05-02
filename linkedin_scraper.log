@@ -1,0 +1,59 @@
+2024-05-01 23:19:09,810 - INFO - LinkedIn data scraped successfully.
+2024-05-01 23:24:09,575 - INFO - LinkedIn data scraped successfully.
+2024-05-01 23:33:34,986 - ERROR - An error occurred while scraping LinkedIn data: Message: invalid argument: missing 'value'
+  (Session info: chrome=124.0.6367.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74AA41502+60802]
+	(No symbol) [0x00007FF74A9BAC02]
+	(No symbol) [0x00007FF74A877CE4]
+	(No symbol) [0x00007FF74A91E7D7]
+	(No symbol) [0x00007FF74A8EAB7A]
+	(No symbol) [0x00007FF74A90A224]
+	(No symbol) [0x00007FF74A8EA923]
+	(No symbol) [0x00007FF74A8B8FEC]
+	(No symbol) [0x00007FF74A8B9C21]
+	GetHandleVerifier [0x00007FF74AD4411D+3217821]
+	GetHandleVerifier [0x00007FF74AD860B7+3488055]
+	GetHandleVerifier [0x00007FF74AD7F03F+3459263]
+	GetHandleVerifier [0x00007FF74AAFB846+823494]
+	(No symbol) [0x00007FF74A9C5F9F]
+	(No symbol) [0x00007FF74A9C0EC4]
+	(No symbol) [0x00007FF74A9C1052]
+	(No symbol) [0x00007FF74A9B18A4]
+	BaseThreadInitThunk [0x00007FFFC9D07344+20]
+	RtlUserThreadStart [0x00007FFFCB0226B1+33]
+
+2024-05-01 23:44:49,454 - INFO - LinkedIn data scraped successfully.
+2024-05-01 23:51:22,680 - INFO - LinkedIn data scraped successfully.
+2024-05-01 23:51:46,109 - ERROR - An error occurred while scraping LinkedIn data: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=124.0.6367.92)
+Stacktrace:
+	GetHandleVerifier [0x00007FF74AA41502+60802]
+	(No symbol) [0x00007FF74A9BAC02]
+	(No symbol) [0x00007FF74A877CE4]
+	(No symbol) [0x00007FF74A8705B3]
+	(No symbol) [0x00007FF74A8613E4]
+	(No symbol) [0x00007FF74A862C14]
+	(No symbol) [0x00007FF74A861711]
+	(No symbol) [0x00007FF74A861049]
+	(No symbol) [0x00007FF74A860D42]
+	(No symbol) [0x00007FF74A85EBE4]
+	(No symbol) [0x00007FF74A85F22C]
+	(No symbol) [0x00007FF74A87A9F9]
+	(No symbol) [0x00007FF74A90AB7E]
+	(No symbol) [0x00007FF74A8EAB7A]
+	(No symbol) [0x00007FF74A90A224]
+	(No symbol) [0x00007FF74A8EA923]
+	(No symbol) [0x00007FF74A8B8FEC]
+	(No symbol) [0x00007FF74A8B9C21]
+	GetHandleVerifier [0x00007FF74AD4411D+3217821]
+	GetHandleVerifier [0x00007FF74AD860B7+3488055]
+	GetHandleVerifier [0x00007FF74AD7F03F+3459263]
+	GetHandleVerifier [0x00007FF74AAFB846+823494]
+	(No symbol) [0x00007FF74A9C5F9F]
+	(No symbol) [0x00007FF74A9C0EC4]
+	(No symbol) [0x00007FF74A9C1052]
+	(No symbol) [0x00007FF74A9B18A4]
+	BaseThreadInitThunk [0x00007FFFC9D07344+20]
+	RtlUserThreadStart [0x00007FFFCB0226B1+33]
+
